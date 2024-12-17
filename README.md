@@ -34,12 +34,12 @@ You can view the **Top 10 Predicted Repositories Dashboard** here:
 
 ---
 
-## **Key Visuals**
+## **Results Displayed in Key Visuals**
 
-1. **Top 10 Current AI/ML Repositories**  
+1. **Top 10 Current AI/ML Repositories**: Based on the number of stars.  
 ![Top 10 Current Repositories](img/S2.png)
 
-2. **Top 10 Predicted AI/ML Repositories**  
+2. **Top 10 Predicted AI/ML Repositories**: Using time-series models to forecast star growth and watchers.  
 ![Top 10 Predicted Repositories](img/S1.png)
 
 ---
@@ -54,12 +54,6 @@ You can view the **Top 10 Predicted Repositories Dashboard** here:
    - `numpy` and `math`: Simulation of logarithmic growth.
 - **GitHub REST API**: Data source.
 - **GitHub Pages**: Hosting the interactive dashboard.
-
----
-
-## **Results**
-- **Top 10 Current Repositories**: Based on the number of stars.
-- **Top 10 Predicted Repositories**: Using time-series models to forecast star growth and watchers.
 
 ---
 
