@@ -37,10 +37,10 @@ You can view the **Top 10 Predicted Repositories Dashboard** here:
 ## **Key Visuals**
 
 1. **Top 10 Current AI/ML Repositories**  
-![Top 10 Current Repositories](insert_image_here)
+![Top 10 Current Repositories](img/s2.png)
 
 2. **Top 10 Predicted AI/ML Repositories**  
-![Top 10 Predicted Repositories](insert_image_here)
+![Top 10 Predicted Repositories](img/s1.png)
 
 ---
 
