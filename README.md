@@ -58,14 +58,15 @@ You can view the **Top 10 Predicted Repositories Dashboard** here:
 ---
 
 ## **How to Run the Code**
-1. Clone this repository:
+1. Clone this repository & run file:
    ```bash
    pip install requests pandas statsmodels numpy plotly
-   python your_script_name.py
+   python gitpoc13.py
 
 ---
 
 ## **Acknowledgments**
 - **Github API**: For providing the data
 - **Python libraries**: For enabling analysis and visualization.
+- **Visual Studio IDE**: While I did preliminary coding on Jupyter Notebook, I was able to deploy more efficiently through VS Code
 
